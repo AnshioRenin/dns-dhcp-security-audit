@@ -121,6 +121,23 @@ was a single host in a controlled environment provided for the assignment.
 
 ---
 
+
+## Screenshots
+
+Selected screenshots captured during the assessment. The full walkthrough with every screenshot is in the report under .
+
+![Screenshot 1](screenshots/screenshot-01.png)
+
+![Screenshot 2](screenshots/screenshot-02.png)
+
+![Screenshot 3](screenshots/screenshot-03.png)
+
+![Screenshot 4](screenshots/screenshot-04.png)
+
+*The remaining 4 screenshots are in the  folder.*
+
+---
+
 ## Repository contents
 
 - `docs/` — the full assessment report, including the findings table, evidence appendices and
